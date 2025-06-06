@@ -1,3 +1,5 @@
+Note: I forked this project to remove the Samba-Service, as I'm using other ways to share my files, but need the centralized DB.
+
 Kodi Backend
 ============
 
